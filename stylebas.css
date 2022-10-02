@@ -35,6 +35,10 @@
 	height: 100px;
 }
 
+body{
+text-shadow: #000 2px 0 0px, #000 0 1px 0px, #000 -1px 0 0px, #000 0 -1px 0px;
+}
+
 #xd{
 	color: white;
 }
